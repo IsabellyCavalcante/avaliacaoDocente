@@ -1,0 +1,4 @@
+rest\Application.class
+pojo\Question.class
+rest\QuestionREST.class
+pojo\TipoResposta.class
